@@ -4,7 +4,7 @@ using MATLAB
 
 # Name of the mesh file. The one of this example is a COMSOL mesh format.
 # Meshes associated to the blade are used to benchmark the scalability of the code.
-mesh_file = "cantilever_hexa_rot.mphtxt"
+mesh_file = "cantilever_rot_hexa.mphtxt"
 
 ### DOMAINS INFO
 # domain_list is a vector that stores vectors of integers. 
